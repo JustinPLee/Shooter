@@ -1,0 +1,60 @@
+html, body, div, canvas {
+	margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+body {
+}
+#game {
+	position: absolute;
+	background: transparent;
+	z-index: 998;
+}
+#viewport {
+	position: absolute;
+	background: transparent;
+	z-index: 997;
+	/*background-image: url("http://m.rgbimg.com/cache1rtyrX/users/t/ta/tacluda/600/nhaHDPQ.jpg");*/
+}
+/*
+#minimap {
+	position: absolute;
+	background: transparent;
+	z-index: 998;
+	right: 0;
+	bottom: 0;
+	border-top: 10px solid yellow;
+	border-left: 10px solid yellow;
+	background-image: url("http://m.rgbimg.com/cache1rtyrX/users/t/ta/tacluda/600/nhaHDPQ.jpg");
+}
+*/
+/*#text {
+	position: absolute;
+	z-index: 9;
+	background: transparent;
+}
+#selector {
+	position: absolute;
+	z-index: 8;
+	background: transparent;
+}
+#crosshair {
+	position: absolute;
+	z-index: 999;
+	background: transparent;
+}
+#textAnim {
+	position: absolute;
+	z-index: 9;
+	background: transparent;
+}
+#overlaybackground {
+	position: absolute;
+	z-index: 2;
+	background: transparent;
+}
+#overlay {
+	position: absolute;
+	z-index: 3;
+	background: transparent;
+}*/
